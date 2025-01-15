@@ -19,7 +19,8 @@ Steps to run:
 
 Clone the repository:
 bash:
-git clone https://github.com/VasundharaChakrapani/snake-game-java.git
+git clone https://github.com/VasundharaChakrapani/Snake-game.git
+
 
 Navigate to the project directory:
 bash:
