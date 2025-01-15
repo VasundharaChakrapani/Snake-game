@@ -1,4 +1,5 @@
-Snake Game in Java
+SNAKE GAME
+
 A simple implementation of the classic Snake Game in Java. The game allows players to control a snake to collect food, growing in length with each piece of food consumed. The objective is to avoid running into the walls or the snake's own body.
 
 Features:
